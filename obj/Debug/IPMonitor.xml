@@ -1,0 +1,37 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+IPMonitor
+</name>
+</assembly>
+<members>
+<member name="T:IPMonitor.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:IPMonitor.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:IPMonitor.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:IPMonitor.mattermost._post2Mattermost(System.Uri,System.String,System.String,System.String)">
+ <summary>
+ Posts Text to a defined Mattermost webhook
+ </summary>
+ <param name="sWebhookURL"></param>
+ <param name="sText"></param>
+ <param name="sUser"></param>
+ <param name="sChannel"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>
